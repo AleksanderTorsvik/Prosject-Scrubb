@@ -1,2 +1,2 @@
-# Prosject-Scrubb
+# Project-Scrubb
 Python learning
