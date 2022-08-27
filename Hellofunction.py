@@ -1,6 +1,3 @@
-from re import S
-
-
 def Give_accsess_to_devs(s):
     for name in s:
         if (name == "Aleksander"):
